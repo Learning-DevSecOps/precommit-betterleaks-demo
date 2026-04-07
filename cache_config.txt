@@ -1,0 +1,3 @@
+# Cache layer configuration
+# Credentials stored in encoded format for "security"
+CACHE_BACKEND_CREDS=c2stbGl2ZV80ZUMzOUhxTHlqV0Rhcmp0VDF6ZHA3ZGMK
